@@ -9,6 +9,7 @@ public class TryCatchFinallyDemo {
         try{
             System.out.println("hello Charan! You are the best person and I wish I could be like you!");
             System.out.println("hello Shanvi, I would love to buy face painting kit!!!!");
+            System.out.println("Testing with kids");
             return 1;
 
         }catch (Exception ex){
