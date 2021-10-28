@@ -1,0 +1,33 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¶ôÜ·ùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(üûŞ”üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¦Åà‹ıÿÿÿÿ
+p
+java:S4276"ZRefactor this code to use the more specialised Functional Interface 'BinaryOperator<List>'(³Şˆ‹
+b
+java:S1854>"LRemove this useless assignment to local variable "increaseSalaryBiFunction".(äŸÏÀ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å”è‡ùÿÿÿÿ
+u
+java:S4276"ZRefactor this code to use the more specialised Functional Interface 'BinaryOperator<List>'(×ä¬ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(æÙ¹
+o
+java:S4276,"ZRefactor this code to use the more specialised Functional Interface 'BinaryOperator<List>'(şÚ‘*
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ÖÌàÅ
+h
+java:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(şÚ‘*
+o
+java:S42762"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(ÉüÁ¯
+I
+java:S16112"3Remove the parentheses around the "lists" parameter(ÉüÁ¯
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(úºõˆÿÿÿÿÿ
+S
+java:S1481>"=Remove this unused "increaseSalaryBiFunction" local variable.(äŸÏÀ
+V	java:S125E"<This block of commented-out lines of code should be removed.(±ß®‹ıÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+C
+java:S1604"(Make this anonymous inner class a lambda(×ä¬ùÿÿÿÿ
+>
+java:S1604>"(Make this anonymous inner class a lambda(äŸÏÀ

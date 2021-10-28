@@ -1,0 +1,18 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(∏‹∑–
+D
+java:S3740!"/Provide the parametrized type for this generic.(ã√»I
+W	java:S125"<This block of commented-out lines of code should be removed.(·äÂl8·“›Ù»/
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(∏¥Ñ58≤µ€Ù»/
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(∏¥Ñ58í∞ﬂÙ»/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(˜âÓÉ8™Ò‹Ù»/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(Óñò…¸ˇˇˇˇ8™Ò‹Ù»/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ8™Ò‹Ù»/
+S
+java:S1144"1Remove this unused private "removeVowels" method.(Œ·á¥˙ˇˇˇˇ8Â“›Ù»/
+7
+java:S1643%"Use a StringBuilder instead.(ßºÓˇˇˇˇˇ

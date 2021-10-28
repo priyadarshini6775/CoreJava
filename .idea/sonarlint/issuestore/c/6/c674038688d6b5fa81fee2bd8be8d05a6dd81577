@@ -1,0 +1,16 @@
+
+6
+java:S2129" Remove this "String" constructor(îáÅ¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã„ŸÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áµ€ƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦œß®
+=
+java:S2129" Remove this "String" constructor(´É¿8ı›®ÂÂ/
+=
+java:S2129" Remove this "String" constructor(ó¤Áè8ß®ÂÂ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú®†Œúÿÿÿÿ8ı›®ÂÂ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÉñƒşÿÿÿÿ8ş›®ÂÂ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚½¾‘ıÿÿÿÿ8ÿ›®ÂÂ/
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ú®†Œúÿÿÿÿ8‚œ®ÂÂ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÃ¸§üÿÿÿÿ

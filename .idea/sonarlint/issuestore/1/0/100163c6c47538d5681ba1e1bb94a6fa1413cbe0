@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öãÚØÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë¥ÆÂûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶×—Äùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜»ëÕıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éÊÌ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ö†ä’
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÌÏÏ8ê©¿/
+s
+java:S3655$"VCall "longestWord.isPresent()" or "!longestWord.isEmpty()" before accessing the value.(ÌÏÏ8ö©¿/
+
+java:S3655"dCall "reduceSumMethodRef.isPresent()" or "!reduceSumMethodRef.isEmpty()" before accessing the value.(¶×—Äùÿÿÿÿ
+n
+java:S3655!"XCall "maxMethodRef.isPresent()" or "!maxMethodRef.isEmpty()" before accessing the value.(Ö†ä’

@@ -1,0 +1,11 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(È†Ğî
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(«ä¿
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¶õô±ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶õô±ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(—±ÄÄùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ßğÕÆ
+V	java:S1252"<This block of commented-out lines of code should be removed.(î†Æ¾üÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(‹š€'

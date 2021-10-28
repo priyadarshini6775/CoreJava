@@ -1,0 +1,19 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "stream2".(Ò§ÿü
+Q
+java:S1854";Remove this useless assignment to local variable "stream1".(Æ§‚»
+B
+java:S1481",Remove this unused "stream1" local variable.(Æ§‚»
+V	java:S125"<This block of commented-out lines of code should be removed.(—ú’≤˝ˇˇˇˇ
+B
+java:S1481",Remove this unused "stream2" local variable.(Ò§ÿü
+V	java:S125"<This block of commented-out lines of code should be removed.(≥˘öÈ˝ˇˇˇˇ
+P	java:S125"<This block of commented-out lines of code should be removed.(‚ﬂıg
+R
+java:S1612"7Replace this lambda with method reference 'Stream::of'.(‚å‹˙˙ˇˇˇˇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚å‹˙˙ˇˇˇˇ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(”Û∫¥˙ˇˇˇˇ
