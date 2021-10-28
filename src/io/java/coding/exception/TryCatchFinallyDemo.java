@@ -1,5 +1,11 @@
 package io.java.coding.exception;
 
+
+/*
+
+This is to check the try catch finally
+
+ */
 public class TryCatchFinallyDemo {
     public static void main(String[] args) {
         System.out.println(m1());
